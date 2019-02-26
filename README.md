@@ -50,12 +50,12 @@ Note: We test on Area5 and train on the rest folds in default. 6 fold CV can be 
 ## Citation
 If our work is useful for your research, please consider citing:
 
-@inproceedings{wang2019asis,
-	title={Associatively Segmenting Instances and Semantics in Point Clouds},
-	author={Wang, Xinlong and Liu, Shu and Shen, Xiaoyong and Shen, Chunhua, and Jia, Jiaya},
-	booktitle={CVPR},
-	year={2019}
-}
+	@inproceedings{wang2019asis,
+		title={Associatively Segmenting Instances and Semantics in Point Clouds},
+		author={Wang, Xinlong and Liu, Shu and Shen, Xiaoyong and Shen, Chunhua, and Jia, Jiaya},
+		booktitle={CVPR},
+		year={2019}
+	}
 
 
 ## Acknowledgemets
