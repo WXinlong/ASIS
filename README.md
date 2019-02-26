@@ -25,7 +25,7 @@ cd data && python generate_input_list.py
 cd ..
 ```
 
-* (optional) Models can be downloaded from [here]().
+* (optional) Models can be downloaded from [here](https://drive.google.com/open?id=1UF2nfXdWTOa1iXXmD54_c09rM7pr-kMK).
 
 ## Usage
 
@@ -50,12 +50,12 @@ Note: We test on Area5 and train on the rest folds in default. 6 fold CV can be 
 ## Citation
 If our work is useful for your research, please consider citing:
 
-        @inproceedings{wang2019asis,
-            title={Associatively Segmenting Instances and Semantics in Point Clouds},
-            author={Wang, Xinlong and Liu, Shu and Shen, Xiaoyong and Shen, Chunhua, and Jia, Jiaya},
-            booktitle={CVPR},
-            year={2019}
-        }
+@inproceedings{wang2019asis,
+	title={Associatively Segmenting Instances and Semantics in Point Clouds},
+	author={Wang, Xinlong and Liu, Shu and Shen, Xiaoyong and Shen, Chunhua, and Jia, Jiaya},
+	booktitle={CVPR},
+	year={2019}
+}
 
 
 ## Acknowledgemets
