@@ -6,9 +6,11 @@
 
 ## Dependencies
 *  [TensorFlow](https://www.tensorflow.org/)
+*  h5py 
+The code has been tested with Python 2.7 on Ubuntu 14.04. 
 
 ## Data and Model
-* Prepared HDF5 data for training is available[here]().
+* Prepared HDF5 data for training is available [here]().
 
 * Download 3D indoor parsing dataset (S3DIS Dataset) for testing and visualization. Version 1.2 of the dataset is used in this work.
 
@@ -43,12 +45,13 @@ Note: We test on Area5 and train on the rest folds in default. 6 fold CV can be 
 ## Citation
 If our work is useful for your research, please consider citing:
 
-@article{asis,
-  title={Associatively Segmenting Instances and Semantics in Point Clouds},
-  author={Xinlong Wang, Shu Liu, Xiaoyong Shen, Chunhua Shen, Jiaya Jia},
-  journal={arXiv preprint arXiv:},
-  year={2018}
-}
+        @inproceedings{wang2019asis,
+            title={Associatively Segmenting Instances and Semantics in Point Clouds},
+            author={Wang, Xinlong and Liu, Shu and Shen, Xiaoyong and Shen, Chunhua, and Jia, Jiaya},
+            booktitle={CVPR},
+            year={2019}
+        }
+
 
 ## Acknowledgemets
 This code largely benefits from following repositories:
