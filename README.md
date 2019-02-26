@@ -3,11 +3,15 @@
 [[arXiv]]()
 
 ## Overview
+![](misc/fig.png)
 
 ## Dependencies
+
+The code has been tested with Python 2.7 on Ubuntu 14.04.
 *  [TensorFlow](https://www.tensorflow.org/)
-*  h5py 
-The code has been tested with Python 2.7 on Ubuntu 14.04. 
+*  h5py
+
+
 
 ## Data and Model
 * Prepared HDF5 data for training is available [here]().
@@ -26,7 +30,8 @@ cd ..
 ## Usage
 
 * Compile TF Operators
-Refer to [PointNet++](https://github.com/charlesq34/pointnet2)
+
+  Refer to [PointNet++](https://github.com/charlesq34/pointnet2)
 
 * Training
 ``` bash
@@ -58,7 +63,4 @@ This code largely benefits from following repositories:
 [PointNet++](https://github.com/charlesq34/pointnet2),
 [SGPN](https://github.com/laughtervv/SGPN),
 [DGCNN](https://github.com/WangYueFt/dgcnn) and
-[DiscLoss-tf](https://github.com/hq-jiang/instance-segmentation-with-discriminative-loss-tensorflow) 
-
-
-
+[DiscLoss-tf](https://github.com/hq-jiang/instance-segmentation-with-discriminative-loss-tensorflow)
