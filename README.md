@@ -25,7 +25,7 @@ cd data && python generate_input_list.py
 cd ..
 ```
 
-* (optional) Models can be downloaded from [here](https://drive.google.com/open?id=1UF2nfXdWTOa1iXXmD54_c09rM7pr-kMK).
+* (optional) Trained model can be downloaded from [here](https://drive.google.com/open?id=1UF2nfXdWTOa1iXXmD54_c09rM7pr-kMK).
 
 ## Usage
 
