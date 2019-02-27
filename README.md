@@ -14,7 +14,6 @@ The code has been tested with Python 2.7 on Ubuntu 14.04.
 
 
 ## Data and Model
-* Prepared HDF5 data for training is available [here]().
 
 * Download 3D indoor parsing dataset (S3DIS Dataset). Version 1.2 of the dataset is used in this work.
 
