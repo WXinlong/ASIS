@@ -1,6 +1,10 @@
 # Associatively Segmenting Instances and Semantics in Point Clouds
 
-[[arXiv]](https://arxiv.org/abs/1902.09852)
+The full paper is available at: https://arxiv.org/abs/1902.09852.
+Qualitative results of ASIS on the S3DIS and vKITTI test fold:
+
+![](misc/s3dis_asis.png)
+![](misc/vkitti_asis.png)
 
 ## Overview
 ![](misc/fig.png)
