@@ -19,7 +19,7 @@ The code has been tested with Python 2.7 on Ubuntu 14.04.
 
 ## Data and Model
 
-* Download 3D indoor parsing dataset (S3DIS Dataset). Version 1.2 of the dataset is used in this work.
+* Download 3D indoor parsing dataset ([S3DIS Dataset](https://docs.google.com/forms/d/e/1FAIpQLScDimvNMCGhy_rmBA2gHfDu3naktRm6A8BPwAWWDv-Uhm6Shw/viewform?c=0&w=1)). Version 1.2 of the dataset is used in this work.
 
 ``` bash
 python collect_indoor3d_data.py
@@ -27,8 +27,6 @@ python gen_h5.py
 cd data && python generate_input_list.py
 cd ..
 ```
-
-* (optional) Prepared HDF5 data for training is available [here]().
 
 * (optional) Trained model can be downloaded from [here](https://drive.google.com/open?id=1UF2nfXdWTOa1iXXmD54_c09rM7pr-kMK).
 
